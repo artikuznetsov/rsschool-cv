@@ -1,4 +1,4 @@
-# Artem Kuznetsov
+# ![Alt text](https://img.hhcdn.ru/photo/463692423.png?t=1701776365&h=TWolEMit4Rqhm7ObEq09Lw)  Artem Kuznetsov
 ***
 ## Junior Frontend Developer
 ***
